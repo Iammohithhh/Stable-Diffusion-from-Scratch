@@ -15,6 +15,7 @@ This repository contains a complete, modular PyTorch implementation of the Stabl
 ---
 
 ## Project Structure
+```
 Stable Diffusion from Scratch/
 ├── attention.py # Attention layers used in UNet
 ├── clip.py # CLIP text encoder
@@ -30,7 +31,7 @@ Stable Diffusion from Scratch/
 ├── images/ # Output/generated images
 ├── req.txt # List of Python dependencies
 
-
+```
 ---
 
 ## Setup Instructions
