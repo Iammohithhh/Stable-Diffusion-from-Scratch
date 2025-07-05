@@ -55,3 +55,7 @@ python pipeline.py --prompt "A serene landscape with mountains during sunset"
 ## References
 - Implementation guided by [Umar Jamil’s “Building Stable Diffusion from Scratch” series](https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=16548s)
 
+Result:
+![image](https://github.com/user-attachments/assets/b5a99698-4158-4336-8f6a-b06d2d366a90)
+
+
